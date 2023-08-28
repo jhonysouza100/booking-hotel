@@ -1,0 +1,11 @@
+{
+  "name": "hotel-booking",
+  "version": "1.0.0",
+  "description": "![HTML5](public/icons/html5.svg) ![CSS3](public/icons/css3.svg) ![javaScript](public/icons/javaScript.svg) ![Bootstrap](public/icons/bootstrap.svg)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.php"
+  },
+  "author": "jhonysouza100",
+  "license": "MIT"
+}
