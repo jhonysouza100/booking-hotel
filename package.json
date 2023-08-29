@@ -1,11 +1,20 @@
 {
-  "name": "hotel-booking",
-  "version": "1.0.0",
-  "description": "![HTML5](public/icons/html5.svg) ![CSS3](public/icons/css3.svg) ![javaScript](public/icons/javaScript.svg) ![Bootstrap](public/icons/bootstrap.svg)",
-  "main": "index.js",
+  "name": "booking-hotel",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "dev": "nodemon index.php"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
-  "author": "jhonysouza100",
-  "license": "MIT"
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "bootstrap-icons": "^1.10.5",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.66.1"
+  }
 }
