@@ -1,3 +1,4 @@
+import '@/styles/styles.css'
 // Import our custom CSS to use react-bootstrap
 // import '../scss/styles.scss'
 // or, specify which plugins you need from react-bootstrap:

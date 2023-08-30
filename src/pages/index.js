@@ -1,5 +1,6 @@
 import Head from "next/head";
-import Container from "../components/Container";
+import Container from "@/components/Container";
+import SwiperComponent from "@/components/Swiper";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <main>
         <Container>
           <h2>Main</h2>
+          <SwiperComponent />
         </Container>
       </main>
     </>

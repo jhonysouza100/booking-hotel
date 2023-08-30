@@ -1,5 +1,4 @@
 import { Html, Head, Main, NextScript } from 'next/document'
-import Container from '@/components/Container'
 
 export default function Document() {
   return (
